@@ -1,6 +1,6 @@
 # VSCode Dark Color Scheme for DrRacket
 
-Package modified from `https://github.com/JoaoBrlt/drracket-one-dark.git`
+Package modified from [https://github.com/JoaoBrlt/drracket-one-dark](https://github.com/JoaoBrlt/drracket-one-dark)
 
 ## License
 

@@ -18,6 +18,7 @@
 (define light-green  #(106 153 85))
 (define orange       #(206 145 120))
 (define yellow       #(220 220 170))
+(define light-red    #(117 0 0))
 (define red          #(244 71 71))
 
 (define framework:color-schemes
@@ -25,7 +26,7 @@
           (white-on-black-base? . #t)
           (colors
            .
-           ((drracket:error-background-highlighting                       ,red)
+           ((drracket:error-background-highlighting                       ,light-red)
             (drracket:language-name-and-memory-use-at-top-of-interactions ,light-green)
             (drracket:syncheck:matching-identifiers                       ,dark-gray)
             (framework:basic-canvas-background                            ,black)
